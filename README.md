@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshpandey1407" alt="lokeshpandey1407" /></a> </p>
 
+- 🌱 I’m currently learning **React Navtive**
+
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **luvpnd@gmail.com**
